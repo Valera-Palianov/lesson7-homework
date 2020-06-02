@@ -1,0 +1,22 @@
+{
+  "name": "lesson7-homework",
+  "version": "1.0.0",
+  "description": "Simple project to learn Grunt and Gulp",
+  "main": "index.js",
+  "repository": "https://github.com/Valera-Palianov/lesson7-homework",
+  "author": "Valera Palianov <valera.palianov@gmail.com>",
+  "license": "WTFPL",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
